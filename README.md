@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there! I'm Narod
 
 [<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=narodkebabci&show_icons=true"/>](https://github.com/narodkebabci/)
 
@@ -16,8 +16,9 @@
 
 <br />
 
-## I am Narod Kebabci
-- A PhD Student in Bioinformatics. 
+<h3> &nbsp;About Me </h3>
+- A PhD Student in Bioinformatics and Systems Biology.
+- 
 
 <!--
 **narodkebabci/narodkebabci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
