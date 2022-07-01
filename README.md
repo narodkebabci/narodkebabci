@@ -11,6 +11,7 @@
 <a href="https://scholar.google.com/citations?user=1Coz5z8AAAAJ&hl=en&authuser=1">
   <img align="left" alt="Narod's Scholar" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/googlescholar.svg" />
 </a>
+<br />
 
 ### About Me
 
