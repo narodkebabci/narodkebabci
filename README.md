@@ -17,7 +17,7 @@
 <br />
 
 ## I am Narod Kebabci
-- A PhD Student. 
+- A PhD Student in Bioinformatics. 
 
 <!--
 **narodkebabci/narodkebabci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
