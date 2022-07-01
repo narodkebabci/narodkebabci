@@ -15,7 +15,7 @@
 
 ### About Me
 
-- 📚 A PhD Student in Bioinformatics and Systems Biology, based in UCD
+- 📚 A PhD Student in Bioinformatics and Systems Biology
 - 👩🏻‍💻 Applying machine learning algorithms to make predictions 
 - 📊 Enjoy visualizing data via using libraries in R and Python
 
