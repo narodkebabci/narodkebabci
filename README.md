@@ -13,7 +13,8 @@
 </a>
 
 ### About Me
-- 📚 A PhD Student in Bioinformatics and Systems Biology.
+
+- 📚 A PhD Student in Bioinformatics and Systems Biology, UCD
 - 👩🏻‍💻 Working with biological data to make predictions using ML algorithms
 - 📊 Enjoy visualizing data via fancy libraries in R and Python
 
