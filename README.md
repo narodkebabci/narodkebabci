@@ -15,9 +15,9 @@
 
 ### About Me
 
-- 📚 A PhD Student in Bioinformatics and Systems Biology, UCD
-- 👩🏻‍💻 Working with biological data to make predictions using ML algorithms
-- 📊 Enjoy visualizing data via fancy libraries in R and Python
+- 📚 A PhD Student in Bioinformatics and Systems Biology, based in UCD
+- 👩🏻‍💻 Applying machine learning algorithms to make predictions on biological data
+- 📊 Enjoy visualizing data via using libraries in R and Python
 
 <!--
 **narodkebabci/narodkebabci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
