@@ -1,6 +1,6 @@
 ## Hi there! I'm Narod 👋
 
-[<img align="right" width="300" src="https://github-readme-stats.vercel.app/api?username=narodkebabci&show_icons=true"/>](https://github.com/narodkebabci/)
+[<img align="right" width="320" src="https://github-readme-stats.vercel.app/api?username=narodkebabci&show_icons=true"/>](https://github.com/narodkebabci/)
 
 <a href="https://twitter.com/naar_k">
   <img align="left" alt="Narod's Twitter" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -16,7 +16,7 @@
 ### About Me
 
 - 📚 A PhD Student in Bioinformatics and Systems Biology, based in UCD
-- 👩🏻‍💻 Applying machine learning algorithms to make predictions on biological data
+- 👩🏻‍💻 Applying machine learning algorithms to make predictions 
 - 📊 Enjoy visualizing data via using libraries in R and Python
 
 <!--
