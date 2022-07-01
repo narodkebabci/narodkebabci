@@ -8,11 +8,5 @@
 </a>
 <br />
 
-### I am Narod Kebabci
-- An ML & Open Source enthusiast.
-- A PhD Student. 
-- 
-- 
-
 <!--
 **narodkebabci/narodkebabci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
