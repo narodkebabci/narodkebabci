@@ -15,9 +15,9 @@
 
 ### About Me
 
-- 📚 Researching on Bioinformatics and Systems Biology
-- 👩🏻‍💻 Applying machine learning algorithms to make predictions 
-- 📊 Enjoy visualizing data via using libraries in R and Python
+- 🧬 Passionate about Bioinformatics and Systems Biology research
+- 💻 Applying machine learning algorithms to extract meaningful insights and make predictions from diverse datasets.
+- 📊 Skilled in visualizing data using R and Python
 
 <!--
 **narodkebabci/narodkebabci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
