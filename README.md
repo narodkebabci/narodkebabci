@@ -1,7 +1,9 @@
 ## Hi there! I'm Narod 👋
 
-<img align="right" width="380" src="https://streak-stats.demolab.com?user=narodkebabci&theme=tokyonight_duo&hide_border=true&date_format=j%20M%5B%20Y%5D">
-  
+<a href="https://git.io/streak-stats">
+  <img align="right" alt="Github Streak" width="380" src="https://streak-stats.demolab.com user=narodkebabci&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D"/>
+</a>
+
 <a href="https://twitter.com/naar_k">
   <img align="left" alt="Narod's Twitter" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
