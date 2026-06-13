@@ -11,11 +11,13 @@
 </a>
 <br />
 
+<img align="right" src="https://streak-stats.demolab.com?user=naroddaldal&hide_border=true" />
+
 ### About Me
 
-- 🧬 Passionate about Bioinformatics and Systems Biology research
-- 💻 Applying machine learning algorithms to extract meaningful insights and make predictions from diverse datasets.
-- 📊 Skilled in visualizing data using R and Python
+- 🧬 Did a PhD in Bioinformatics
+- 💻 Building machine learning workflows in Python to extract meaningful insights from biomedical datasets
+- 📊 Skilled in information visualization using R (ggplot2) and Python (seaborn, matplotlib) 
 
 <!--
-**narodkebabci/narodkebabci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**naroddaldal/naroddaldal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
