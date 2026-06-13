@@ -3,7 +3,7 @@
 <a href="https://twitter.com/naar_k">
   <img align="left" alt="Narod's Twitter" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/narod-kebabci/">
+<a href="https://www.linkedin.com/in/narodkebabci/">
   <img align="left" alt="Narod's Linkdein" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://scholar.google.com/citations?user=1Coz5z8AAAAJ&hl=en&authuser=1">
